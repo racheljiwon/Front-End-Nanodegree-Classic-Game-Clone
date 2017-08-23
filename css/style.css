@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  height: 100%;
+}
+
+#intro {
+  background-color: #cfc;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#resultBoard {
+  font-size: 30px;
+  color: red;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#description {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#scoreBoard {
+  font-size : 30px;
+}
